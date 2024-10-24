@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yarifapo.github.io/sitemap/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/IAM/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/CJA/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/NJX/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/snk/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/yfB/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/DTp/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/nDh/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/tYL/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/HAP/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/Voc/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/sAJ/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/WDZ/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/bvx/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/XUG/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/Kqc/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/JQl/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/ouW/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/tXK/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/MOL/sitemap_index.yarifapo
+Sitemap: https://yarifapo.github.io/cNe/sitemap_index.yarifapo
